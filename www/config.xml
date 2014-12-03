@@ -4,7 +4,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
 		id="com.game.eskillsgame"
 		version="0.0.1">
-	<name>eskillsgame</name>
+	<name>SPC GALS eskillsmemorygame</name>
+<description>this eskills game was developed by SPC GALS for ITGirls 2014!</description>
 		<gap:platform name="android" />
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
